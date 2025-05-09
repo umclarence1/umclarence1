@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Clarence Dankwa Manu! 👋
 
-<!--
-**umclarence1/umclarence1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Developer | Tech Enthusiast | STEM Advocate | Ghana**
 
-Here are some ideas to get you started:
+I'm a passionate learner from Ghana, deeply interested in software development, clean technology, and creating solutions that serve real-world needs. I'm currently focused on mastering **Python**, **C++**, **JavaScript**, and building web and desktop applications that drive innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages**: Python, C++, JavaScript, HTML, CSS
+- **Tools**: Git, GitHub, Visual Studio Code, Tkinter, MySQL
+- **Frameworks**: React (learning), Flask (beginner)
+- **Other Skills**: WordPress, Excel, Canva, Arduino
+
+## 🌱 Currently Learning
+- Object-Oriented Programming (OOP)
+- Building full-stack web applications
+- Git/GitHub version control
+- Circular economy and green tech solutions
+
+## 🚀 Projects
+- **MTN Payroll System**: Built in Python with Tkinter, handling salaries using polymorphism.
+- **PDF Upload Portal**: A web app to upload and download educational content (in progress).
+- **Solar Innovators Hub**: Promoting solar tech and drone development in rural Ghana.
+- **ShopSmart App**: Local business inventory management tool (50% profit boost for users).
+
+## 📚 My Vision
+To use code as a tool for **community development**, **education access**, and **climate-smart innovation**. I believe in tech that empowers people, especially in underserved areas.
+
+## 💬 Let's Connect
+- **Email**: clarencemanu.dev@gmail.com
+- **LinkedIn**: [linkedin.com/in/clarencedankwamanu](https://linkedin.com/in/clarencedabkwamanu)
+- **Twitter**: [@clarencemanu_](https://twitter.com/clarencemanu_)
+- **Portfolio**: Coming soon!
+
+---
+
+> _"Building solutions for today, while coding a better tomorrow."_  
+> — Clarence
