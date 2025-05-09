@@ -3,7 +3,9 @@
 **Aspiring Software Developer | Tech Enthusiast | STEM Advocate | Ghana**
 
 I'm a passionate learner from Ghana, deeply interested in software development, clean technology, and creating solutions that serve real-world needs. I'm currently focused on mastering **Python**, **C++**, **JavaScript**, and building web and desktop applications that drive innovation.
+### 🏆 GitHub Trophies
 
+![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C++, JavaScript, HTML, CSS
 - **Tools**: Git, GitHub, Visual Studio Code, Tkinter, MySQL
