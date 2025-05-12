@@ -184,9 +184,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umclarence1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
 
 ### 🔝 Top Contributed Repo
