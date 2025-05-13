@@ -57,10 +57,7 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
+  
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
