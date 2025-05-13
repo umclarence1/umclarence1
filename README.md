@@ -54,14 +54,11 @@
       <br>Docker
     </td>
   
-    <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
+    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -85,14 +82,6 @@
       <br>Sass
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
@@ -105,10 +94,6 @@
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" height="48" alt="Visual Studio Code" />
       <br>VS Code
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
     </td>
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
