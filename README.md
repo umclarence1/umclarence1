@@ -74,14 +74,6 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="65" height="65" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
@@ -124,18 +116,6 @@
     <td align="center"  width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="48" height="48" alt="Bitbucket" />
       <br>Bitbucket
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="48" height="48" alt="yarn" />
-      <br>Yarn
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="48" height="48" alt="Jest" />
-      <br>Jest
     </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML" />
