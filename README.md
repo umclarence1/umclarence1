@@ -22,7 +22,7 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
 
-<a href="https://www.buymeacoffee.com/delali3"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Shashi" /></a>
+<a href="https://www.buymeacoffee.com/manuclarann"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Shashi" /></a>
 
 
 ## 🌐 Socials:
