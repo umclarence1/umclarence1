@@ -1,6 +1,6 @@
 # 👋 Hello there!  
  
-## 🧠 My Introduction 
+## 🧠 My Introduction  
 
 - 👯 I’m looking to collaborate on **Open source contributions**
 
