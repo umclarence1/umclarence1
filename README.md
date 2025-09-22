@@ -1,7 +1,7 @@
 # ACTIVE!!!
 ##  INTRO
  
-- 👯 I’m looking to collaborate on **Open source contributions**
+- 👯 I’m looking to collaborate on **Open source contributions** 
 
 ## ABOUT
 
