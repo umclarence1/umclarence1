@@ -2,7 +2,7 @@
 ##  INTRO
  
 - 👯 I’m looking to collaborate on **Open source contributions** 
-
+ 
 ## ABOUT
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=I'm+Manu+Clarence+Dankwa!;Electrical+Engineering+Student+⚡;Aspiring+Tech+Expert+%F0%9F%92%BB;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+and+Data+Explorer+%F0%9F%94%8D)](https://git.io/typing-svg)
