@@ -7,9 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=I'm+Manu+Clarence+Dankwa!;Electrical+Engineering+Student+⚡;Aspiring+Tech+Expert+%F0%9F%92%BB;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+and+Data+Explorer+%F0%9F%94%8D)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFldjF2d3BpdDI1amF4ZzRoZWxsaDBxb2doZDIyNnB0YzB0bG1jMCZjdD1n/WFZvB7VIXBgiz3oDXE/giphy.gif" width="400" />
-</div>
+
 
 ---
 
